@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Rastreadores de IA — conteúdo liberado (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://aicreator.technowhub.ai/sitemap.xml
