@@ -6,12 +6,6 @@
       "runtimeExecutable": "python3",
       "runtimeArgs": ["-m", "http.server", "8743", "--directory", "/Users/eduardoendo/aicreator"],
       "port": 8743
-    },
-    {
-      "name": "dc-extract",
-      "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8744", "--directory", "/private/tmp/claude-501/-Users-eduardoendo-Library-Mobile-Documents-com-apple-CloudDocs-IMPACTA-AI-Creator/fb7342f9-9d0d-4b6c-ae8f-fdd2851699a3/scratchpad/extract"],
-      "port": 8744
     }
   ]
 }
