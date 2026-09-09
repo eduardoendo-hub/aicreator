@@ -18,7 +18,7 @@ Landing page estática do curso **AI Creator — Criação, Storytelling e Víde
 |---|---|---|
 | Online ao vivo | 6, 7 e 8/10/2026 · 19h–22h | `.../p/checkout/5ruizijtw3` |
 
-Investimento: R$ 900 à vista (de R$ 1.200) ou 12x de R$ 75.
+Investimento: R$ 700 à vista (de R$ 1.200) ou 12x de R$ 58,33.
 
 ## Tracking
 | Item | Valor |
@@ -26,7 +26,7 @@ Investimento: R$ 900 à vista (de R$ 1.200) ou 12x de R$ 75.
 | `productSlug` | `aicreator` |
 | `campaignSlug` | `aicreator-outubro-2026` |
 | Pixel Meta | `1581473926936760` (pixel IRIS compartilhado das LPs Impacta) |
-| Google Ads | `AW-1056567970` — **falta criar o label da conversão** "InitiateCheckout LP AI Creator" e preencher `GOOGLE_ADS_LABEL` em `app.js` |
+| Google Ads | `AW-1056567970` (tag global). **Sem campanha no Google por ora** (decisão de 2026-09-06) — a tag carrega mas não registra conversão. Se e quando entrar mídia no Google, criar o label "InitiateCheckout LP AI Creator" e preencher `GOOGLE_ADS_LABEL` em `app.js`. |
 | Engaged sharedId | `5ruizijtw3` |
 
 Origem `https://aicreator.technowhub.ai` precisa estar em `iris/app/api/events/route.ts → ALLOWED_ORIGINS`, senão os contadores do cockpit ficam zerados.
