@@ -18,7 +18,7 @@ Landing page estática do curso **AI Creator — Criação, Storytelling e Víde
 |---|---|---|
 | Online ao vivo | 6, 7 e 8/10/2026 · 19h–22h | `.../p/checkout/5ruizijtw3` |
 
-Investimento: R$ 700 à vista (de R$ 1.200) ou 12x de R$ 58,33.
+Investimento: R$ 600 à vista (de R$ 1.200) ou 12x de R$ 50.
 
 ## Tracking
 | Item | Valor |

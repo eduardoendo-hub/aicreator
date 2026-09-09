@@ -18,7 +18,7 @@
     PRODUCT_SLUG:    'aicreator',
     CAMPAIGN_SLUG:   'aicreator-outubro-2026',
     IRIS_EVENTS_URL: 'https://iris.technowhub.ai/api/events',
-    TICKET_VALUE:    700,            // preço à vista — referência p/ value
+    TICKET_VALUE:    600,            // preço à vista — referência p/ value
     CURRENCY:        'BRL',
     // Pixel IRIS — pixel único de todas as LPs Impacta:
     META_PIXEL_ID:   '1581473926936760',
